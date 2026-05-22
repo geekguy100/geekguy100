@@ -1,7 +1,7 @@
 <div align="center">
     <img src="https://www.kylegrenier.net/_next/static/media/hat.9a383f9c.png" width=200 />
 
-# [Kyle Grenier](https://www.kylegrenier.net) <br/> Web and Video Game Developer 🌐🎮
+# [Kyle Grenier](https://www.kylegrenier.net) <br/> Full Stack and Video Game Developer 🌐🎮
 </div>
 
 ## ✏️ Notable Projects
