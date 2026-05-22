@@ -1,6 +1,7 @@
 <div align="center">
     <img src="https://www.kylegrenier.net/_next/static/media/hat.9a383f9c.png" width=200 />
-    <a href="https://www.kylegrenier.net"><h1>Kyle Grenier</a><br/>Web and Video Game Developer 🌐🎮</h1>
+
+# [Kyle Grenier](https://www.kylegrenier.net) <br/> Web and Video Game Developer 🌐🎮
 </div>
 
 ## ✏️ Notable Projects
@@ -15,7 +16,7 @@ I created my portfolio using Next.js, shadcn/ui, and TypeScript, with animations
 ### [Other](https://raw.githubusercontent.com/geekguy100/geekguy100/f5e63feb33730451835dcfdee474a4a6a459a81e/resume.pdf)
 Read about some of my other work on my resume.
 
-<h2>🚀 Tech I Use</h2>
+## 🚀 Tech I Use
 
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
