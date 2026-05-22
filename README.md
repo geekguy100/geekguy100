@@ -13,7 +13,7 @@ This project began as a senior capstone project with around 30 devs on the team.
 ### [Personal Portfolio](https://github.com/geekguy100/geekguy100.github.io)
 I created my portfolio using Next.js, shadcn/ui, and TypeScript, with animations added using the Motion package. 
 
-### [Other](https://raw.githubusercontent.com/geekguy100/geekguy100/f5e63feb33730451835dcfdee474a4a6a459a81e/resume.pdf)
+### [Other](https://github.com/geekguy100/geekguy100/blob/6c4384303908e9fb7c94b2d1f2eb0618a17cc190/resume.pdf))
 Read about some of my other work on my resume.
 
 ## 🚀 Tech I Use
