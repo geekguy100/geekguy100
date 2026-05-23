@@ -2,18 +2,23 @@
     <img src="https://www.kylegrenier.net/_next/static/media/hat.9a383f9c.png" width=200 />
 
 # [Kyle Grenier](https://www.kylegrenier.net) <br/> Full Stack and Video Game Developer 🌐🎮
+
 </div>
 
 ## ✏️ Notable Projects
+
 ### [Disaster Golf](https://store.steampowered.com/app/2575960/Disaster_Golf/)
+
 <img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2575960/header.jpg?t=1724943403" />\
 A unique take on mini golf games, harness the power of natural disasters and putt the ball through wild and diverse courses as fast as you can to climb the leaderboards!\
 This project began as a senior capstone project with around 30 devs on the team. After university, a few colleagues and I co-founded Hippo Havoc LLC to add more features and polish the game in preparation for a release on Steam.
 
 ### [Personal Portfolio](https://github.com/geekguy100/geekguy100.github.io)
-I created my portfolio using Next.js, shadcn/ui, and TypeScript, with animations added using the Motion package. 
 
-### [Other](https://raw.githubusercontent.com/geekguy100/geekguy100/6c4384303908e9fb7c94b2d1f2eb0618a17cc190/resume.pdf)
+I created my portfolio using Next.js, shadcn/ui, and TypeScript, with animations added using the Motion package.
+
+### [Other](https://www.kylegrenier.net/resume.pdf)
+
 Read about some of my other work on my resume.
 
 ## 🚀 Tech I Use
